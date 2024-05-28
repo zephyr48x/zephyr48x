@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zephyr48x
+- 👋 Hi, I’m @zephyr.dev
 - 👀 I’m interested in Cloud Security and DevOps
 - 🌱 I’m currently learning to become a Devops Engineer
 - 💞️ I’m looking to collaborate on any project that will help my learnings
